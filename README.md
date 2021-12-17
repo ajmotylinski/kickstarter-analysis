@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### The purpose of this analysis is to explore the relationships between launch dates and funding goals for Plays on the Kickstarter platform. This should help inform future project owners understand if the best time to launch their campaign. The analysis of goal amounts could help indicate what funding goal appeals to future backers in the Play category.
 
 ## Analysis and Challenges
 
