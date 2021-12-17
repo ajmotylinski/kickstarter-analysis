@@ -8,9 +8,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
 ![Graph of Theater Outcomes vs Launch](../main/resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
+![Charge of Outcomes Based on Goal](../main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+As I was creating the charts, I ran into a small problem when I noticed that my total count of projects did not match the sum of successful, failed, and canceled project. I had to dig into the data and used the filter capability in Excel to filter down to the items that I was trying to count with my COUNTIFS function. This is when I noticed that there was an outcome that I hadn't accounted for. The unexpected outcome were projects that were live when the data extract was taken. After updating the filters my counts matched so I was able to continue with my analysis.
 
 ## Results
 
