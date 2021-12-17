@@ -7,10 +7,14 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+The chart below looks at the outcomes of projects in the Theater parent category base on the month that the project launched.
 ![Graph of Theater Outcomes vs Launch](../main/resources/Theater_Outcomes_vs_Launch.png)
+The chart indicates that May has the highest number of successful theater campaigns. This number decreases into the fall where October shows a slight increase but then things continue downward through the end of the year. This data shows that there is a large appetite for donors during summer months but it is less so in other seasons. If a theater project wanted to avoid being lost in the crowd, they may decide to avoid the busy summertimes. This may be a strategy, but they would need to research into further reasons why there are less projects in total during the winter months.
 
 ### Analysis of Outcomes Based on Goals
+The chart below show the percentage of successful, failed, and canceled project for the Plays subcatagory.
 ![Charge of Outcomes Based on Goal](../main/resources/Outcomes_vs_Goals.png)
+This indicates that projects with a low funding goal have a high success rate of funding but it quickly decreases until bottoming out at the $25K-$29K range. These projects in the $25k-$29K range are succesful only 20% of the time. Project with funding of under $15K and between $35K and $45K have over a 50% success rate. If I were to launch a campaign, I would either want to have a shoe string budget to capture those donors interested in the cheaper productions. Otherwise a modest budget of $35k to $45K would also have a high liklihood of funding. If the funding goal is over $45K there is a low chance that the project would be successful.
 
 ### Challenges and Difficulties Encountered
 As I was creating the charts, I ran into a small problem when I noticed that my total count of projects did not match the sum of successful, failed, and canceled project. I had to dig into the data and used the filter capability in Excel to filter down to the items that I was trying to count with my COUNTIFS function. This is when I noticed that there was an outcome that I hadn't accounted for. The unexpected outcome were projects that were live when the data extract was taken. After updating the filters my counts matched so I was able to continue with my analysis.
