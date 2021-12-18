@@ -32,6 +32,6 @@ The funding goal appears to have a impact on the success rate. There appears to 
 
 - What are some limitations of this dataset?
 The dataset doesn't include any data on the users of Kickstarter. This may be helpfu in understanding the reasons why a person did or did not donate to a project. Other demographic information may help tell the store of what type of project a specific age, gener, metro area would support specific projects.
-
+ 
 - What are some other possible tables and/or graphs that we could create?
 I would be interested in investigating if the length of the campaign had any impact on the campaign outcomes. I would also be interested to see if more recent projects have a higher success rate. This may indicate that Kickstarter has become more trusted over the last couple of years.
